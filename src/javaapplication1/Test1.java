@@ -14,9 +14,7 @@ public class Test1 {
         String message = "Age defference is " + ageDifference + ".";
         
         System.out.println(message);
-        
-
-
+       
     }
     
 }
